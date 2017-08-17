@@ -1,16 +1,49 @@
 ![Web Developer Roadmap](http://i.imgur.com/GyvcunJ.png)
 
-> Roadmap to becoming a web developer in 2017
+> What is the trend for IT field?
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective.
+Ok so i will start with programming languages.
+<h1>Java</h1>
+<p>Java is the most common beginner language offered by most universities.
+Java is used to program some many things:
+<br>Native Android are written using java</br>
+<br>Java Web applications can also be done using Java</br>
+<br>Servers can be written using Java</br>
+In short Java can write all kinds of applications.But the question is how long will it take for a complete beginner to learn Java and apply it effectively to make applications? Its a little longer than other languages like Javascript and python
+</p>
 
-If you think that these can be improved in anyway, please do suggest.
+<h1>Python</h1>
+<p>
+Python is the most beginner friendly programming language and can be used to make any kind of application you can think of.Python is used to make network applications,games and all sorts of things.
+<br>
+The good thing about python is that it can be learned and applied in a short amount of time as opposed to Java.</br>
+</p>
+<h1>AI</h1>
+<p>AI is a broad field and requires a whole different level of knowledge,but the most common language used for AI development is Python.So this gives python an advantage</p>
+
 
 ***
 
-<p align="center"><b> Did you like this guide and want more of the similar content? </b><br>We are releasing <a href="http://hugobots.com">Hugobots</a> soon. Make sure to subscribe!</p>
+<h1>Javascript</h1>
+<p>Javascript is the most popular and the king of web development.
+Learning Javascript requires a little bit of HTML5 and CSS3 knowledge. But once mastered javascript can be used to not only make Webpages but also to write Backend systems.
+As it stands Javascript has something called `Javascript fatique`. What this means is Javascript has so many tools and frameworks and for beginners its easy to get lost.
+As you can see in the images attached.
+</p>
 
 ***
+<h1>What to teach for BootCamp</h1>
+<p>
+For absolutely beginners and just getting started with programming PYTHON.
+Its easy to understand and grasp the concepts and fundamentals of programming.
+After python they can easily get into web development either using python itself or learn something new like Javascript.
+<br></br>
+<p>
+For those who want to learn a specific language Java is the way to go.
+</p>
+<br></br>
+<p>For others i have included the full picture of web development below</p>
+</p>
 
 
 ## 🚀 Introduction
@@ -33,29 +66,4 @@ For the backend, personally I would prefer Node.js and PHP 7 for the full time. 
 
 <br>
 
-## 🚦 Wrap Up
 
-If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
-
-## ☑ TODO
-
-- [X] Add Frontend Roadmap
-- [X] Add Backend Roadmap
-- [X] Add DevOps Roadmap
-- [ ] Add relevant resources for each
-
-## 👬 Contribution
-
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out to me directly at kamranahmed.se@gmail.com or [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
-
-## Sponsored By
-
-- [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io)
-- [FancyGrid - JavaScript grid library with charts integration and server communication.](http://fancygrid.com)
-
-## License
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
